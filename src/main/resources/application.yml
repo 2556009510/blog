@@ -1,0 +1,11 @@
+spring:
+  #去掉前两个文件的，这个都写在这里
+  thymeleaf:
+    mode: HTML
+
+  profiles: #配置文件
+    active: dev #活动
+
+
+
+comment.avatar: /images/avatar.png
